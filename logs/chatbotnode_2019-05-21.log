@@ -1,0 +1,251 @@
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+WARNING:root:Did not find the object. Need to work better on sanitation.
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+WARNING:root:Did not find the object. Need to work better on sanitation.
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:string input successful, string is'file.json'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather temperature today', 40), ('weather temperature tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:LOGGING STARTED
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:Question input through file
+INFO:root:string input successful, string is'file.json'
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:Question input through file
+INFO:root:string input successful, string is'file.json'
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather tomorrow?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is1
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather tomorrow?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is1
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather tomorrow?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is1
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather tomorrow?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is1
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather today?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is0
+INFO:root:LOGGING STARTED
+INFO:root:Filename found from app parameters
+INFO:root:FILE FOUND, SUCCESSS
+INFO:root:string fetch successful, string is'what's the weather tomorrow?'
+INFO:root:tokenized to an array of words
+INFO:root:Request stopwords
+INFO:root:JSON Decode successful. Passing to value score
+INFO:root:word score calculation in progress
+INFO:root:error value calculation finished. values are[('weather today', 40), ('weather tomorrow', 35), ('humidity today', 65)]
+INFO:root:Maximum value calculated. The maximum value position is1
